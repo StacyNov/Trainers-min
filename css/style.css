@@ -167,5 +167,10 @@ header .container.social a{
     margin: auto;
     display: inline-block;
 }
-
+header div p {
+    font-size: 22px;
+    color: brown;
+    text-transform: uppercase;
+    display: inline-block;
+}
 
