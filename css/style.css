@@ -163,6 +163,9 @@ header .container.social a{
     margin-bottom: 19px;
     margin-right: 1px;
 }
-
+.wolf {
+    margin: auto;
+    display: inline-block;
+}
 
 
